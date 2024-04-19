@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bf2e641-23e6-4e5a-8e48-eb1642f06ccd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../stateful/.idea/sonarlint/issuestore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stateful/.idea/sonarlint/issuestore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stateful/.idea/sonarlint/securityhotspotstore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stateful/.idea/sonarlint/securityhotspotstore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stateful/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/stateless-auth-api.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/stateless.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateful/.idea/sonarlint/issuestore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateful/.idea/sonarlint/issuestore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateful/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../stateful/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateful/.idea/sonarlint/securityhotspotstore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateful/.idea/sonarlint/securityhotspotstore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateful/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../stateful/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateful/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateful/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateful/stateful-auth-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateful/stateful-auth-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateless-auth-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful"
+    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateless"
   }
 }]]></component>
   <component name="RunManager" selected="Application.StatelessAuthApiApplication">

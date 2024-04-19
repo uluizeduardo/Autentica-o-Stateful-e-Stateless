@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930bd599-5742-49fe-a7f0-b1bce62a7e7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stateless/.idea/modules/stateless-auth-api.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stateless/.idea/stateless.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/1/81acdda29937bfc2c5762cc5116b6bf66c020f39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/e/de0948d22bf0ac212808e5a3a5c84174cee624f0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-auth-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/stateless-auth-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/stateless-auth-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/AuthenticationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/AuthenticationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/ExceptionDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/ExceptionDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/ExeptionGlobalHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/ExeptionGlobalHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/infra/exception/ValidationException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +55,14 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -58,6 +70,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2f10HGVBZ10GCesI2Elaxm2DcJ0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,15 +84,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful/stateful-auth-api/src/main/resources"
+    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/infra/exception"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-any-api\src\main\java\br\com\microservice\statefulanyapi\infra\exception" />
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-auth-api\src\main\resources" />
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-any-api\src\main\java\br\com\microservice\statefulanyapi" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.microservice.statefulauthapi.infra.exception" />
       <recent name="br.com.microservice.statefulauthapi.core.model" />
     </key>
   </component>
