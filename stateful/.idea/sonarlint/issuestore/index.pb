@@ -9,8 +9,6 @@ N
 stateful-auth-api/build.gradle,9\f\9f2657165b03588c14b8666ed8879509df573798
 ˆ
 Xstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/model/User.java,2\3\239893bfe8d3f81293814a04f239409d2ac01c63
-ˆ
-Xstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/infra/exception.java,7\b\7b0b793d42ce51946a214045eb7bacd5f57be4e1
 ™
 istateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/infra/exception/ExceptionDetails.java,b\a\ba79017996435b7c9156944473132c6cdc09976d
  
@@ -27,3 +25,7 @@ gstateful-any-api/src/main/java/br/com/microservice/statefulanyapi/infra/excepti
 lstateful-any-api/src/main/java/br/com/microservice/statefulanyapi/infra/exception/ExeptionGlobalHandler.java,4\9\492627900a8c10a26828bf9777b72ecab98d1f02
 š
 jstateful-any-api/src/main/java/br/com/microservice/statefulanyapi/infra/exception/ValidationException.java,f\6\f6d4d31209859cdede7f9292b4fb1b3d50acfadc
+K
+stateful-any-api/Dockerfile,a\0\a0e8be20d3afe56c06a0b4f539d258c3f7a954cc
+L
+stateful-auth-api/Dockerfile,d\e\de14bc5dfa69113bbd5ad338d05b33e5a8364829
