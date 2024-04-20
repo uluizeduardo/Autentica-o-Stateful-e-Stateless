@@ -29,3 +29,7 @@ K
 stateful-any-api/Dockerfile,a\0\a0e8be20d3afe56c06a0b4f539d258c3f7a954cc
 L
 stateful-auth-api/Dockerfile,d\e\de14bc5dfa69113bbd5ad338d05b33e5a8364829
+M
+stateful-auth-api/gradlew.bat,3\0\308e0fb54c31ba637346591ad4d71449e3541da5
+L
+stateful-auth-api/.gitignore,4\c\4c3da2c2220b41ba494c630aa60c914bb68a849e

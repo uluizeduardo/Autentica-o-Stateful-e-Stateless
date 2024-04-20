@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930bd599-5742-49fe-a7f0-b1bce62a7e7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-any-api/src/test/java/br/com/microservice/statefulanyapi/StatefulAnyApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/test/java/br/com/microservice/statefulauthapi/StatefulAuthApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/modules/stateless-any-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/modules/stateless-any-api.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/modules/stateless-auth-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/modules/stateless-auth-api.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/sonarlint/issuestore/a/9/a99f78ab551a1324571a3fe7566ea8153f33a566" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/sonarlint/securityhotspotstore/a/9/a99f78ab551a1324571a3fe7566ea8153f33a566" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/stateless.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/stateless.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/stateless-any-api/src/test/java/br/com/microservice/statelessanyapi/StatelessAnyApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/stateless-auth-api/src/test/java/br/com/microservice/statelessauthapi/StatelessAuthApiApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,11 +72,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful/stateful-any-api"
+    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful/stateful-auth-api"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-auth-api" />
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-any-api" />
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-any-api\src\main\java\br\com\microservice\statefulanyapi\infra\exception" />
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-auth-api\src\main\resources" />

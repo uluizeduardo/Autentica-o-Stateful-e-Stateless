@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be55caec-befe-433c-814e-06aaf9f393a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateful/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateful/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateful/stateful-any-api/src/test/java/br/com/microservice/statefulanyapi/StatefulAnyApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateful/stateful-auth-api/src/test/java/br/com/microservice/statefulauthapi/StatefulAuthApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/stateless-any-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/stateless-any-api.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/stateless-auth-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/stateless-auth-api.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a99f78ab551a1324571a3fe7566ea8153f33a566" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a99f78ab551a1324571a3fe7566ea8153f33a566" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stateless.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stateless.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateless-any-api/src/test/java/br/com/microservice/statelessanyapi/StatelessAnyApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateless-auth-api/src/test/java/br/com/microservice/statelessauthapi/StatelessAuthApiApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
