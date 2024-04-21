@@ -15,3 +15,9 @@ _stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/dto/
 bstateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/JwtService.java,3\4\34f25e2d7579d87efa55f91550a27c1c20c88ce2
 Š
 Zstateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/model/User.java,a\9\a99f78ab551a1324571a3fe7566ea8153f33a566
+–
+fstateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/infra/PasswordEncoderConfig.java,a\b\ab0f064e514b4c875e769628bf56453b144ac660
+™
+istateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/repository/UserRepository.java,8\5\85120a78f96b9dbe8e34634d0e44ac830fffb963
+“
+cstateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/AuthService.java,8\c\8c73ab71e4aaa202b05e4c8a8c35c701d5b3827d
