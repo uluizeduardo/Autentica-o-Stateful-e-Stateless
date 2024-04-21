@@ -18,7 +18,7 @@ public class AuthService {
     private final JwtService jwtService;
 
     public TokenDTO login(AuthRequest authRequest){
-        var user = userRepository.findByUsename(authRequest.username())
+        var user = userRepository.findByUsername(authRequest.username())
                 .orElseThrow(() -> new ValidationException("User not found!"));
         var accessToken = jwtService.createToken(user);
         validatePassword(authRequest.password(), user.getPassword());
@@ -26,6 +26,10 @@ public class AuthService {
     }
 
     private void validatePassword(String rawPassword, String encodePassword) {
+
+        if(ObjectUtils.isEmpty(rawPassword)){
+            throw new ValidationException("The password must be informed!");
+        }
         if(!passwordEncoder.matches(rawPassword, encodePassword)){
             throw  new ValidationException("The password is incorrect!");
         }

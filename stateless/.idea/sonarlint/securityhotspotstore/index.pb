@@ -21,3 +21,7 @@ fstateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/infra/Pas
 istateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/repository/UserRepository.java,8\5\85120a78f96b9dbe8e34634d0e44ac830fffb963
 “
 cstateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/AuthService.java,8\c\8c73ab71e4aaa202b05e4c8a8c35c701d5b3827d
+™
+istateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/controller/AuthController.java,a\8\a867140c9f64ad4ef2dbf602f3b5541a7120dfee
+O
+stateless-auth-api/build.gradle,1\7\1736eee4b346d363f644cc65f026bc1381cefd16

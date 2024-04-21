@@ -31,8 +31,8 @@ public class JwtService {
         data.put("username", user.getUsername());
         return Jwts
                 .builder()
-                .setClaims(data)
-                .setExpiration(generateExpiresAt())
+                .claims(data)
+                .expiration(generateExpiresAt())
                 .signWith(generateSign())
                 .compact();
     }
@@ -58,11 +58,11 @@ public class JwtService {
         var accessToken = extractToken(token);
         try {
             Jwts
-                .parserBuilder()
-                .setSigningKey(generateSign())
+                .parser()
+                .verifyWith(generateSign())
                 .build()
-                .parseClaimsJwt(accessToken)
-                .getBody();
+                .parseSignedClaims(accessToken)
+                .getPayload();
 
         } catch (Exception ex){
             throw new AuthenticationException("Invalid token " + ex.getMessage());
@@ -70,6 +70,7 @@ public class JwtService {
     }
 
     private String extractToken(String token){
+
         if(ObjectUtils.isEmpty(token)){
             throw  new ValidationException("The accessToken was not informed.");
         }
