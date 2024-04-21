@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be55caec-befe-433c-814e-06aaf9f393a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34f25e2d7579d87efa55f91550a27c1c20c88ce2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a99f78ab551a1324571a3fe7566ea8153f33a566" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2c7ccd61aa212ec7b422813ac3f5adad88e02dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee76e49ce678367363b87ad9b472a90b62839e3b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/4/34f25e2d7579d87efa55f91550a27c1c20c88ce2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a99f78ab551a1324571a3fe7566ea8153f33a566" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/2/d2c7ccd61aa212ec7b422813ac3f5adad88e02dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/e/ee76e49ce678367363b87ad9b472a90b62839e3b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/dto/AuthRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/dto/TokenDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/JwtService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateful/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateful/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateless-auth-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +47,14 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
