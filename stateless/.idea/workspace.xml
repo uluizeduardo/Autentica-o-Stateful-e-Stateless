@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be55caec-befe-433c-814e-06aaf9f393a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateless-auth-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-auth-api/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/java/br/com/microservice/statelessauthapi/core/service/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateless-any-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-any-api/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateless-any-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-any-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateless-auth-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stateless-auth-api/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +62,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateless/stateless-auth-api"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Developer/Documents/Projects - Spring/Auth/stateless/stateless-auth-api&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateless\stateless-auth-api" />
