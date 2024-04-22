@@ -39,3 +39,5 @@ N
 `stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/core/service/AnyService.java,3\e\3e35190fb4ad67f16cf158e124d86a25e74cbf25
 ê
 `stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/core/service/JwtService.java,7\3\73e113a42c9cad65d8f565f3d79614adb128d9a3
+ñ
+fstateless-any-api/src/main/java/br/com/microservice/statelessanyapi/core/controller/AnyController.java,5\f\5f46fc9f5cb5f52eb9a0573cb1fb6925fd54cf9d
