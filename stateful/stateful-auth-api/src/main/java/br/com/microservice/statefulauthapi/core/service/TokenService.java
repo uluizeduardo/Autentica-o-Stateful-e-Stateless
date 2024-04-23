@@ -73,7 +73,7 @@ public class TokenService {
         return !ObjectUtils.isEmpty(data);
     }
 
-    private void deleteRedisToken(String token){
+    public void deleteRedisToken(String token){
         var accessToken = extractToken(token);
         redisTemplate.delete(accessToken);
     }

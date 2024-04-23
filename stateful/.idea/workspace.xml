@@ -76,7 +76,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateless",
+    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
@@ -89,6 +89,8 @@
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-any-api\src\main\java\br\com\microservice\statefulanyapi" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.microservice.statefulauthapi.core.service" />
+      <recent name="br.com.microservice.statefulauthapi.core.repository" />
       <recent name="br.com.microservice.statefulauthapi.infra" />
       <recent name="br.com.microservice.statefulauthapi.infra.exception" />
       <recent name="br.com.microservice.statefulauthapi.core.model" />

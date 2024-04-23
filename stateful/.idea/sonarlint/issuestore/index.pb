@@ -47,3 +47,7 @@ Zstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/dto/To
 [stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/dto/TokenData.java,7\4\741261d09ea20adf82eea3983e3fb6328b49f972
 ’
 bstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java,0\c\0cb11a4742e2c3d05cb46e0e27d8c1fa05715fe8
+—
+gstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/repository/UserRepository.java,5\c\5c191b49ef8d8940d98a4c5597181ab0afad9fc8
+‘
+astateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java,d\6\d6f81e89e7ada3cf795c275927f81c6c3f735381
