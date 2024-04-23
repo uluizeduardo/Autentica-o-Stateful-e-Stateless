@@ -37,3 +37,13 @@ L
 dstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/infra/PasswordEncoderConfig.java,a\6\a6419e81064b509a1479ad39ec1dc4a63f4caa55
 ä
 Zstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/infra/RedisConfig.java,c\3\c3b6a1a8808c14a16f3c0a6cf1959acbe4db654c
+ç
+]stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/dto/AuthRequest.java,7\a\7ae1a1348030d79a5f4606af645b0784d261008a
+í
+bstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/dto/AuthUserResponse.java,5\0\50482ba309876110279d474c86d264562e7ee204
+ä
+Zstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/dto/TokenDTO.java,8\9\89dbf7dba713cb3c742233c4ce09f14cf3284bb1
+ã
+[stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/dto/TokenData.java,7\4\741261d09ea20adf82eea3983e3fb6328b49f972
+í
+bstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java,0\c\0cb11a4742e2c3d05cb46e0e27d8c1fa05715fe8
