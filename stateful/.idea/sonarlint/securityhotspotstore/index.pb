@@ -33,3 +33,7 @@ M
 stateful-auth-api/gradlew.bat,3\0\308e0fb54c31ba637346591ad4d71449e3541da5
 L
 stateful-auth-api/.gitignore,4\c\4c3da2c2220b41ba494c630aa60c914bb68a849e
+”
+dstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/infra/PasswordEncoderConfig.java,a\6\a6419e81064b509a1479ad39ec1dc4a63f4caa55
+Š
+Zstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/infra/RedisConfig.java,c\3\c3b6a1a8808c14a16f3c0a6cf1959acbe4db654c

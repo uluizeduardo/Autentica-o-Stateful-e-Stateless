@@ -31,8 +31,6 @@ Zstateless-any-api/src/main/java/br/com/microservice/statelessanyapi/core/dto/To
 bstateless-any-api/src/main/java/br/com/microservice/statelessanyapi/core/dto/AuthUserResponse.java,a\6\a66e0c583f3606aa42cd39927d8d76a892322c1a
 ç
 ]stateless-any-api/src/main/java/br/com/microservice/statelessanyapi/core/dto/AnyResponse.java,a\3\a321eaf8d48cc7f69be49acfc1b692932846fe18
-ë
-astateless-any-api/src/main/java/br/com/microservice/statelessanyapi/core/service/AnyResponse.java,c\7\c77b847c41448edc0e41d3e776a4b564073a72d7
 N
 stateless-any-api/build.gradle,8\3\830223c137df655881da4edf7f53e5eff2dee4db
 ê
