@@ -1,11 +1,10 @@
 package br.com.microservice.statefulauthapi.core.service;
 
 import br.com.microservice.statefulauthapi.core.dto.TokenData;
+import br.com.microservice.statefulauthapi.infra.exception.AuthenticationException;
 import br.com.microservice.statefulauthapi.infra.exception.ValidationException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.AllArgsConstructor;
-import lombok.SneakyThrows;
-import org.apache.tomcat.websocket.AuthenticationException;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 import org.springframework.util.ObjectUtils;
@@ -19,7 +18,7 @@ public class TokenService {
 
     private static final String EMPTY_SPACE = " ";
     private static final Integer TOKEN_INDEX = 1;
-    private static final Long ONE_DAY_IN_SECONDS = 86400L;
+    private static final Long ONE_DAY_IN_SECONDS = 10L;
     private final RedisTemplate<String, String> redisTemplate;
     private final ObjectMapper objectMapper;
 
@@ -52,7 +51,7 @@ public class TokenService {
         }
     }
 
-    @SneakyThrows
+
     public TokenData getTokenData(String token) {
         var accessToken = extractToken(token);
         var jsonString = getRedisTokenValue(accessToken);

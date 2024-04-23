@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,11 +91,11 @@
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-any-api\src\main\java\br\com\microservice\statefulanyapi" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.microservice.statefulauthapi.core.controller" />
       <recent name="br.com.microservice.statefulauthapi.core.service" />
       <recent name="br.com.microservice.statefulauthapi.core.repository" />
       <recent name="br.com.microservice.statefulauthapi.infra" />
       <recent name="br.com.microservice.statefulauthapi.infra.exception" />
-      <recent name="br.com.microservice.statefulauthapi.core.model" />
     </key>
   </component>
   <component name="RunManager" selected="Application.StatefulAuthApiApplication">
@@ -140,5 +142,26 @@
       <updated>1712953186903</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

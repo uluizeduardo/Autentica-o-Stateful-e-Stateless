@@ -22,8 +22,8 @@ public class AuthService {
 
     public TokenDTO login(AuthRequest authRequest){
         var user = findByUsername(authRequest.username());
-        var accessToken = tokenService.createToken(user.getUsername());
         validatePassword(authRequest.password(), user.getPassword());
+        var accessToken = tokenService.createToken(user.getUsername());
         return new TokenDTO(accessToken);
     }
 

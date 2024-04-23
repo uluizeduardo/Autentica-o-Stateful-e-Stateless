@@ -51,3 +51,5 @@ bstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/servic
 gstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/repository/UserRepository.java,5\c\5c191b49ef8d8940d98a4c5597181ab0afad9fc8
 ‘
 astateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java,d\6\d6f81e89e7ada3cf795c275927f81c6c3f735381
+—
+gstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/controller/AuthController.java,0\0\00937dda86b8528a7a6cd3e7670ca5a3cd8c02d1
