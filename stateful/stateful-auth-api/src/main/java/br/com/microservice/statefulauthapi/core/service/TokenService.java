@@ -18,7 +18,7 @@ public class TokenService {
 
     private static final String EMPTY_SPACE = " ";
     private static final Integer TOKEN_INDEX = 1;
-    private static final Long ONE_DAY_IN_SECONDS = 10L;
+    private static final Long ONE_DAY_IN_SECONDS = 86400L;
     private final RedisTemplate<String, String> redisTemplate;
     private final ObjectMapper objectMapper;
 

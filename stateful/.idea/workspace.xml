@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="930bd599-5742-49fe-a7f0-b1bce62a7e7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="930bd599-5742-49fe-a7f0-b1bce62a7e7f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
