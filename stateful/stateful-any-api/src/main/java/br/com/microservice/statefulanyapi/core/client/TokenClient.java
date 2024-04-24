@@ -14,5 +14,5 @@ public interface TokenClient {
     TokenDTO validateToken(@RequestHeader String accessToken);
 
     @GetExchange("user")
-    AuthUserResponse getAuthenticatedUser(String accessToken);
+    AuthUserResponse getAuthenticatedUser(@RequestHeader String accessToken);
 }

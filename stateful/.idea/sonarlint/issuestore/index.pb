@@ -67,3 +67,5 @@ Xstateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/dto/Toke
 `stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/service/TokenService.java,3\e\3e56bbad1168687586ddce12f65382cf40c87715
 Ž
 ^stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/service/AnyService.java,b\f\bf17421bec67ec772fab95f3be4e8738008f7529
+”
+dstateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/controller/AnyController.java,9\a\9a4b9732242c4480d4e97fc6f0598e21b82ddbdc

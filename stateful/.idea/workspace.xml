@@ -8,6 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/client/TokenClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/client/TokenClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateful-any-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-any-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/controller/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/dto",
+    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
@@ -90,14 +93,14 @@
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-auth-api\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.microservice.statefulanyapi.core.controller" />
       <recent name="br.com.microservice.statefulauthapi.core.controller" />
       <recent name="br.com.microservice.statefulauthapi.core.service" />
       <recent name="br.com.microservice.statefulauthapi.core.repository" />
       <recent name="br.com.microservice.statefulauthapi.infra" />
-      <recent name="br.com.microservice.statefulauthapi.infra.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StatefulAuthApiApplication">
+  <component name="RunManager" selected="Application.StatefulAnyApiApplication">
     <configuration name="StatefulAnyApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.microservice.statefulanyapi.StatefulAnyApiApplication" />
       <module name="stateful-any-api.main" />
@@ -157,8 +160,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/TokenService.java</url>
-          <line>84</line>
-          <option name="timeStamp" value="3" />
+          <line>71</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/service/TokenService.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/service/TokenService.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/controller/AuthController.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
