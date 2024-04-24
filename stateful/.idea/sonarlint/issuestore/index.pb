@@ -53,3 +53,7 @@ gstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/reposi
 astateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/service/AuthService.java,d\6\d6f81e89e7ada3cf795c275927f81c6c3f735381
 ó
 gstateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/controller/AuthController.java,0\0\00937dda86b8528a7a6cd3e7670ca5a3cd8c02d1
+ê
+`stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/infra/HttpInterfaceConfig.java,b\1\b180e46d0c3a0b63b1a65933ace71a387fec557f
+é
+^stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/client/TokenClient.java,9\9\994abaabe7b5ecf69e8121ebc63f79ab007fe065
