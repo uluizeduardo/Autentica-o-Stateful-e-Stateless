@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930bd599-5742-49fe-a7f0-b1bce62a7e7f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/client/TokenClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-any-api/src/main/java/br/com/microservice/statefulanyapi/core/client/TokenClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-any-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-any-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/stateful-auth-api/src/main/java/br/com/microservice/statefulauthapi/core/controller/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stateless/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,16 +70,16 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Developer/Documents/Projects - Spring/Auth/stateful",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Developer/Documents/Projects - Spring/Auth/stateless&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Developer\Documents\Projects - Spring\Auth\stateful\stateful-any-api\src\main\java\br\com\microservice\statefulanyapi\core\dto" />
